@@ -644,5 +644,5 @@ with st.expander("Tips for Improving Your Speech"):
 # Footer
 st.markdown("---")
 st.markdown(
-    "ToneCoach: Emotional Intelligence for Public Speaking | Developed by Speech AI Team"
+    "ToneCoach: Emotional Intelligence for Public Speaking | Developed by Kanishka Samrat Kolakaluri, Anurag Kopila, Kaushik Chinnapureddy"
 )
