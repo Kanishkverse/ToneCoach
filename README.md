@@ -14,7 +14,7 @@ An AI-powered application that helps users improve their speech delivery by prov
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ToneCoach.git
+git clone https://github.com/kanishkverse/ToneCoach.git
 
 # Navigate to the project directory
 cd ToneCoach
